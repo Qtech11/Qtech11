@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Qtech11
-- 👀 I’m interested in Mobile App Development/Data Science
-- 🌱 I’m currently learning Flutter/Dart 
-- 💞️ I’m looking to collaborate on Flutter Projects
+- 👀 I’m interested in Mobile App Development/Backend Development(Java)
+- 🌱 I’m currently learning Java(Spring Boot) 
+- 💞️ I’m looking to collaborate on Flutter/Java Projects
 - 📫 How to reach me ...
 
 <!---
