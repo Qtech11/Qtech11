@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Qtech11
-- 👀 I’m interested in Mobile App Development/Backend Development(Java)
+- 👀 I’m interested in Mobile App Development, Web3, and Backend Development(Java)
 - 🌱 I’m currently learning Java(Spring Boot) 
 - 💞️ I’m looking to collaborate on Flutter/Java Projects
 - 📫 How to reach me ...
